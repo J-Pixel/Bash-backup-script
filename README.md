@@ -1,2 +1,2 @@
 # backup-script
-My bash backup of dir and mysql script
+My bash script for backup of directory and mysql database
